@@ -39,66 +39,66 @@ const CONFIG = {
   // 页脚菜单
   MAGZINE_FOOTER_LINKS: [
     {
-      name: '友情链接',
+      name: '',
       menus: [
         {
-          title: 'Tangly的学习笔记',
+          title: '',
           href: 'https://blog.tangly1024.com'
         },
         {
-          title: 'NotionNext',
+          title: '',
           href: 'https://www.tangly1024.com'
         }
       ]
     },
     {
-      name: '开发者',
+      name: '',
       menus: [
         { title: 'Github', href: 'https://github.com/tangly1024/NotionNext' },
         {
-          title: '开发帮助',
+          title: '',
           href: 'https://docs.tangly1024.com/article/how-to-develop-with-notion-next'
         },
         {
-          title: '功能反馈',
+          title: '',
           href: 'https://github.com/tangly1024/NotionNext/issues/new/choose'
         },
         {
-          title: '技术讨论',
+          title: '',
           href: 'https://github.com/tangly1024/NotionNext/discussions'
         },
         {
-          title: '关于作者',
+          title: '',
           href: 'https://blog.tangly1024.com/about'
         }
       ]
     },
     {
-      name: '支持',
+      name: '',
       menus: [
         {
-          title: '站长社群',
+          title: '',
           href: 'https://docs.tangly1024.com/article/chat-community'
         },
         {
-          title: '咨询与定制',
+          title: '',
           href: 'https://docs.tangly1024.com/article/my-service'
         },
         {
-          title: '升级手册',
+          title: '',
           href: 'https://docs.tangly1024.com/article/my-service'
         },
         {
-          title: '安装教程',
+          title: '',
           href: 'https://docs.tangly1024.com/article/how-to-update-notionnext'
         },
         { title: 'SEO推广', href: 'https://seo.tangly1024.com/' }
       ]
     },
     {
-      name: '解决方案',
+      name: '',
       menus: [
-        { title: '建站工具', href: 'https://www.tangly1024.com/' },
+        { title: '', href: 'https://www.tangly1024.com/' },
         { title: 'NotionNext', href: 'https://docs.tangly1024.com/about' }
       ]
     }
