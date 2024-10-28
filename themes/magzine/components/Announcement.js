@@ -16,7 +16,7 @@ const Announcement = ({ post, className }) => {
           className='rounded-xl px-2'>
           {/* <div><i className='mr-2 fas fa-bullhorn' />{locale.COMMON.ANNOUNCEMENT}</div> */}
           {post && (
-            <div id='announcement-content'>
+            <div id='announcement-content'style={{ textAlign: 'left' }}>
               <NotionPage post={post}/>
             </div>
           )}
