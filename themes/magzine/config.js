@@ -5,7 +5,7 @@ const CONFIG = {
   MAGZINE_HOME_BUTTON_URL: '/about',
   MAGZINE_HOME_BUTTON_TEXT: '了解更多',
 
-  MAGZINE_HOME_HIDDEN_CATEGORY: '知行合一', //不希望在首页展示的文章分类，用英文逗号隔开
+  MAGZINE_HOME_HIDDEN_CATEGORY: '知行合一,心情随笔,职场提升', //不希望在首页展示的文章分类，用英文逗号隔开
 
   MAGZINE_HOME_TITLE: '立即开创您的在线业务。完全免费。',
   MAGZINE_HOME_DESCRIPTION:
@@ -30,7 +30,7 @@ const CONFIG = {
   MAGZINE_POST_DETAIL_TAG: true, // 文章显示标签
 
   // 文章页面联系卡
-  MAGZINE_SOCIAL_CARD: true, // 是否显示右侧，点击加入社群按钮
+  MAGZINE_SOCIAL_CARD: false, // 是否显示右侧，点击加入社群按钮
   MAGZINE_SOCIAL_CARD_TITLE_1: '交流频道',
   MAGZINE_SOCIAL_CARD_TITLE_2: '加入社群讨论分享',
   MAGZINE_SOCIAL_CARD_TITLE_3: '点击加入社群',
