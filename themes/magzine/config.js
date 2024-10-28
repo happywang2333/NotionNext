@@ -54,7 +54,7 @@ const CONFIG = {
     {
       name: '',
       menus: [
-        { title: 'Github', href: 'https://github.com/tangly1024/NotionNext' },
+        { title: '', href: 'https://github.com/tangly1024/NotionNext' },
         {
           title: '',
           href: 'https://docs.tangly1024.com/article/how-to-develop-with-notion-next'
@@ -92,14 +92,14 @@ const CONFIG = {
           title: '',
           href: 'https://docs.tangly1024.com/article/how-to-update-notionnext'
         },
-        { title: 'SEO推广', href: 'https://seo.tangly1024.com/' }
+        { title: '', href: 'https://seo.tangly1024.com/' }
       ]
     },
     {
       name: '',
       menus: [
         { title: '', href: 'https://www.tangly1024.com/' },
-        { title: 'NotionNext', href: 'https://docs.tangly1024.com/about' }
+        { title: '', href: 'https://docs.tangly1024.com/about' }
       ]
     }
   ],
