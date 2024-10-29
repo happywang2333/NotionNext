@@ -8,8 +8,7 @@ const CONFIG = {
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
-    { title: '你好，我是王兴，欢迎来到我的博客', url: 'https://www.happywang.xyz' },
-    { title: '访问文档中心获取更多帮助', url: 'https://docs.tangly1024.com' }
+    { title: '你好，我是王兴', url: 'https://www.happywang.xyz' }
   ],
 
   // 英雄区左右侧组件颠倒位置
@@ -24,6 +23,7 @@ const CONFIG = {
   HERO_TITLE_4: '商业认知',
   HERO_TITLE_5: '真正决定你收入水平的，不是工作能力，而是工作格局',
   HERO_TITLE_LINK: 'https://mp.weixin.qq.com/s/OWBjLCGwY3nO8RZumLYJyA', 
+  
  // 英雄区遮罩文字
   HEO_HERO_COVER_TITLE: '随便逛逛',
 
