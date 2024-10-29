@@ -8,7 +8,7 @@ const CONFIG = {
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
-    { title: '你好，我是王兴', url: 'https://www.happywang.xyz' }
+    { title: '你好，我是王兴', url: 'https://www.happywang.xyz/about' }
   ],
 
   // 英雄区左右侧组件颠倒位置
