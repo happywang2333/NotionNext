@@ -5,8 +5,7 @@ const CONFIG = {
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   NOTICE_BAR: [
-    { title: '欢迎来到我的博客', url: 'https://www.happywang.xyz' },
-    { title: '访问文档中心获取更多帮助', url: 'https://docs.tangly1024.com' }
+    { title: '你好，我是王兴，欢迎来到我的博客', url: 'https://www.happywang.xyz' },
   ],
 
   // 英雄区(首页顶部大卡)
